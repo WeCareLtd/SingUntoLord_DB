@@ -1,0 +1,26 @@
+[
+    {
+        "documentId": "EnglishHymns",
+        "displayName": "Hymns",
+        "defaultLanguage": "en",
+        "isRomanized": false,
+        "url": "https://raw.githubusercontent.com/WeCareLtd/SingUntoLord_DB/EnglishHymns.json",
+        "version": 1
+    },
+    {
+        "documentId": "EnglishChoruses",
+        "displayName": "Choruses",
+        "defaultLanguage": "en",
+        "isRomanized": false,
+        "url": "https://raw.githubusercontent.com/WeCareLtd/SingUntoLord_DB/EnglishChoruses.json",
+        "version": 1
+    },
+    {
+        "documentId": "TeluguSongs",
+        "displayName": "ఆరాధనా గీతములు",
+        "defaultLanguage": "tel",
+        "isRomanized": true,
+        "url": "https://raw.githubusercontent.com/WeCareLtd/SingUntoLord_DB/TeluguSongs.json",
+        "version": 1
+    }
+]
