@@ -5,7 +5,7 @@
         "defaultLanguage": "en",
         "isRomanized": false,
         "url": "https://raw.githubusercontent.com/WeCareLtd/SingUntoLord_DB/main/EnglishHymns.json",
-        "version": 1
+        "version": 2
     },
     {
         "documentId": "EnglishChoruses",
@@ -13,7 +13,7 @@
         "defaultLanguage": "en",
         "isRomanized": false,
         "url": "https://raw.githubusercontent.com/WeCareLtd/SingUntoLord_DB/main/EnglishChoruses.json",
-        "version": 1
+        "version": 2
     },
     {
         "documentId": "TeluguSongs",
